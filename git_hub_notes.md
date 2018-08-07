@@ -6,7 +6,7 @@
 $ git status
 $ git add [*] [filename.ext]
 $ git commit [just hit enter][-m"your text"]
-$ git push
+$ git push [-f]
 $ git log
 ```
 
